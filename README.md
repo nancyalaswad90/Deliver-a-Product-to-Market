@@ -46,16 +46,26 @@
   
    ###  Submission Requirements:
         
+        
+        
+        
   - [Updated PRD document](https://drive.google.com/file/d/1f8oGRmpXscM0YezRTcuHzomLUS6c0O0Y/view)
   
   
-        - Marketing Guide
-        - Training Guide for Sales and Customer Support
-        - User Guide
-        - Launch email
+  
+  
+      - Marketing Guide
+      - Training Guide for Sales and Customer Support
+      - User Guide
+      - Launch email
 
 
- - [  PRD Templateof PMND C4 ](https://docs.google.com/document/d/1hanlop8zS2zBXSYQqIv-w4fyeCbjoum0nqMYZtK2FX4/edit)
+
+
+ - [  PRD Templateof PMND C4 ](https://drive.google.com/file/d/1jXdRiRhq14qeTldcfmoWrZUjaxICxhsc/view)
+ 
+ 
+ 
  
  - [Updated Product Scenarios](https://docs.google.com/document/d/1q_XITqc6zXNqYwZ05N6JCZG-iLW-qjhB8l03CDlzEY0/edit#heading=h.hie7wk2gj14u)
 
