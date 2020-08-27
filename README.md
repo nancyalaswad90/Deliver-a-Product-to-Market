@@ -26,20 +26,27 @@
  .
  
  
- ## Part Four  : My Study Product [Launch Process Material](https://docs.google.com/document/d/1qmRqK8v_zI9LF__CWHOEkOBrLetQEXfmDnXGJ_QZRhk/edit)
+ ## Part Four  : My Study Product Launch Process Material
 
 
  ### - Udacity Material Require for the fourth  Project :  
  
+ 
+ 
   
  - [Checkout the Rubric for this project.](https://review.udacity.com/#!/rubrics/2775/view)
+ 
+ 
  
   - [All submission for project 4](https://docs.google.com/document/d/1icIgdolhC6og0YscLPIzhOLLaOPe9FnXMGHkuO33jUk/edit)
   
   
+  
+  
+  
    ###  Submission Requirements:
         
-  - [Updated PRD document](https://docs.google.com/document/d/1icIgdolhC6og0YscLPIzhOLLaOPe9FnXMGHkuO33jUk/edit#)
+  - [Updated PRD document](https://drive.google.com/file/d/1f8oGRmpXscM0YezRTcuHzomLUS6c0O0Y/view)
   
   
         - Marketing Guide
